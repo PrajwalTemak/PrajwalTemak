@@ -1,73 +1,36 @@
-Hi there! I'm Prajwal Temak 👋
-I am a Computer Engineering student and developer with a strong focus on System Design, DevOps, and Backend Engineering. I enjoy building scalable, secure, and efficient systems, ranging from C++ based compliance dashboards to AI-driven security tools.
+Hi there!
+I'm Prajwal Temak 👋 
+Backend & DevOps Enthusiast | B.E. Computer Engineering student 
 
-🚀 Technical Skills
+💻 Tech Stack
 
-Languages: C, C++, Java, Python, JavaScript, SQL.
-
-
-Frameworks & Tools: Node.js, Spring Boot, Crow (C++), Django, Flask, Express, React.
+Core: DSA (250+ solved), C++, Java, Python, SQL.
 
 
-DevOps & Cloud: Docker, Kubernetes, Git, CI/CD, AWS (EC2, Lambda, S3).
+Backend: Node.js, Spring Boot, Crow, Django, REST APIs.
 
 
-Specializations: Data Structures & Algorithms (250+ LeetCode), System Design, Microservices, RDBMS, NoSQL (MongoDB).
+DevOps: Docker, Kubernetes, CI/CD, AWS EC2/S3.
 
-🛠️ Featured Projects
+🚀 Top Projects
 
-Zorvyn Guard - Compliance Dashboard 
-
-Architected a security compliance dashboard using C++ (Crow) and React to monitor real-time system health.
-
-Containerized the application with Docker for high-performance deployment.
+🛡️ Zorvyn Guard: Security compliance dashboard using C++ (Crow) and React.
 
 
-Codex - Docker-based Execution Platform 
-
-Developed a secure online compiler that executes multiple languages within isolated Docker containers.
-
-Implemented API-based sandboxing using Node.js and Spring Boot.
+📦 Codex: Secure online compiler using Docker sandboxing.
 
 
-Crime Detection System 
-
-Engineered a Deep Learning system using CNN-RNN architectures for identifying suspicious activity in video.
-
-Utilized TensorFlow and OpenCV for real-time behavioral recognition.
+🔍 Crime Detection: Video surveillance analysis via CNN-RNN.
 
 
-AI Assistant (CREO) 
+🤖 AI Assistant: State-level (DIPEX) 1st rank winning IoT chatbot.
 
-Developed an NLP-driven chatbot for task automation with IoT integration (Arduino).
+🏆 Quick Stats
 
-Awarded 1st Place at the State Level Project Competition (DIPEX).
-
-🎓 Education & Experience
-B.E. in Computer Engineering | Government College of Engineering & Research Avasari (GPA: 8.67).
-
-Honors in Cybersecurity | Government Polytechnic, Pune.
-
-Developer Intern | IIIT Surat: Engineered YOLO models for smart traffic management.
-
-Java Developer Intern | Globemind: Built Java Servlet/JSP projects for Management Information Systems.
-
-🏆 Achievements & Leadership
-
-DIPEX Winner: 1st Rank at the State-level for AI and IoT innovation.
+Internships: IIIT Surat (YOLO/AI) & Globemind (Java).
 
 
-ERC Club Head: Lead the IoT and DSA divisions, mentoring juniors in competitive programming.
+Leadership: ERC Club Head (IoT & DSA).
 
 
-Academic Excellence: Ranked 2nd in the entire institute batch during my Diploma.
-
-📫 Let's Connect!
-
-LinkedIn: prajwal.temak@gcoeara.ac.in 
-
-
-LeetCode: Solve with me! (250+ Problems) 
-
-
-Phone: +91 9689749819
+Academics: 8.67 GPA (B.E.)  | 93.67% (Diploma).
